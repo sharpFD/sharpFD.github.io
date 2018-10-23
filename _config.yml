@@ -50,7 +50,7 @@ gitalk:
   repo: wuyungen1996.github.io    #仓库名称
   owner: wuyungen1996    #github用户名
   admin: wuyungen1996
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # Markdown settings
