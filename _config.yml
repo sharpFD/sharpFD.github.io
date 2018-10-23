@@ -47,9 +47,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 9049f0e2f449c54d0661                            #生成的clientID
   clientSecret: 00f675c409ed502b2ecbd7d5dd68bd16482d11e5    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: wuyungen1996.github.io    #仓库名称
+  owner: wuyungen1996    #github用户名
+  admin: wuyungen1996
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -79,11 +79,11 @@ disqus_username: wuyungen1996
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 9b51c8ab765877ea919162036a818fa9
 
 #Google Analytics
-ga_track_id: 'UA-108520659-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'UA-108520659-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
